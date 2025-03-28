@@ -113,8 +113,8 @@ Terraform automatically handles dependencies, but explicit control can be added:
 ## 🚀 How to Run?
 1. Clone the repository:
    ```sh
-   git clone https://github.com/haykminas/Test_Task/terraform-azure-vm.git
-   cd terraform-azure-vm
+   git clone https://github.com/haykminas/Terraform_Task.git
+   cd Terraform_Task
    ```
 2. Initialize Terraform:
    ```sh
